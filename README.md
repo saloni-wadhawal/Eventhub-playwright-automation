@@ -19,25 +19,25 @@ This project automates functional testing of the EventHub web application using 
 
 ## Test Coverage
 
-\- Login page heading validation
+- Login page heading validation
 
-\- Login with valid and invalid credentials
+- Login with valid and invalid credentials
 
-\- Home page navigation
+- Home page navigation
 
-\- Event category and city filters
+- Event category and city filters
 
-\- Event search
+- Event search
 
-\- Event booking and ticket quantity
+- Event booking and ticket quantity
 
-\- Booking form validation
+- Booking form validation
 
-\- My Bookings page
+- My Bookings page
 
-\- Booking cancellation and confirmation
+- Booking cancellation and confirmation
 
-\- Logout functionality
+- Logout functionality
 
 
 
@@ -49,9 +49,9 @@ The project uses Playwright Test to execute automated browser tests.
 
 ### Prerequisites
 
-\- Node.js installed
+- Node.js installed
 
-\- npm installed
+- npm installed
 
 
 
