@@ -1,26 +1,23 @@
-\# EventHub Playwright Automation
+# EventHub Playwright Automation
 
-
-
-\## Project Overview
+## Project Overview
 
 This project automates functional testing of the EventHub web application using Playwright and JavaScript. It focuses on validating important user workflows and checking that the application behaves as expected.
 
 
+## Technologies Used
 
-\## Technologies Used
+- JavaScript
 
-\- JavaScript
+- Playwright
 
-\- Playwright
+- Node.js
 
-\- Node.js
-
-\- Git and GitHub
-
+- Git and GitHub
 
 
-\## Test Coverage
+
+## Test Coverage
 
 \- Login page heading validation
 
@@ -44,13 +41,13 @@ This project automates functional testing of the EventHub web application using 
 
 
 
-\## Test Execution
+## Test Execution
 
 The project uses Playwright Test to execute automated browser tests.
 
 
 
-\### Prerequisites
+### Prerequisites
 
 \- Node.js installed
 
@@ -58,7 +55,7 @@ The project uses Playwright Test to execute automated browser tests.
 
 
 
-\### Setup
+### Setup
 
 Clone the repository:
 
@@ -78,7 +75,7 @@ npx playwright install
 
 
 
-\### Run the tests
+### Run the tests
 
 
 
@@ -118,18 +115,15 @@ npx playwright show-report
 
 
 
-\## Test Credentials
+## Test Credentials
 
 Store test credentials in a local `.env` file. Never commit passwords or other secrets to GitHub. Configure the required environment variables before running tests that need login.
 
 
 
-\## Author
+## Author
 
 Saloni Wadhawal
-
-
-
 GitHub: https://github.com/saloni-wadhawal
 
 
